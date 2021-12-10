@@ -11,3 +11,17 @@ git clone https://github.com/rdd91088/python_homework
 cd python_homework
 ```
 
+# Usage
+Modify `small.txt` as you want and then run
+```
+python main.py
+```
+> Also you can modify `main.py` by adding a new files in file list.
+
+# How to test?
+Change directory to `./tests` and then run
+```
+python -m unittest
+```
+
+
